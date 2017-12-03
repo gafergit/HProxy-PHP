@@ -1,4 +1,4 @@
-# HProxy-PHP
+# Proxy-PHP
 HProxy powered by PHP
 
 # 使用教程
@@ -16,4 +16,4 @@ HProxy powered by PHP
 
 7.在最下面的Manual deploy这一栏，选中master，然后点Deploy Branch    
 
-8.完成，接下来只要在应用的HProxy设置中填上这个app的地址（默认为https://<你填的名字>.herokuapp.com/）
+8.完成，接下来只要在设置中填上这个app的地址（默认为https://<你填的名字>.herokuapp.com/）
